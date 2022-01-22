@@ -1,0 +1,7 @@
+image/
+camera_app/
+*.ui
+*.qml
+*.jpg
+viewimage.py
+new.py
